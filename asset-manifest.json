@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ticketing/static/css/main.0f57a840.css",
+    "main.js": "/ticketing/static/js/main.169341b7.js",
+    "static/js/787.a006f74a.chunk.js": "/ticketing/static/js/787.a006f74a.chunk.js",
+    "static/media/tnvsaus.jpg": "/ticketing/static/media/tnvsaus.9ba69da11398c63764f2.jpg",
+    "static/media/tnvsdn.jpg": "/ticketing/static/media/tnvsdn.6df6298113b45a2d870f.jpg",
+    "static/media/tnvsfr.jpg": "/ticketing/static/media/tnvsfr.064744d0fbf4872bdbb2.jpg",
+    "static/media/talan.png": "/ticketing/static/media/talan.ba933806b1ae24ef5850.png",
+    "static/media/people.png": "/ticketing/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/ticketing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ticketing/index.html",
+    "main.0f57a840.css.map": "/ticketing/static/css/main.0f57a840.css.map",
+    "main.169341b7.js.map": "/ticketing/static/js/main.169341b7.js.map",
+    "787.a006f74a.chunk.js.map": "/ticketing/static/js/787.a006f74a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f57a840.css",
+    "static/js/main.169341b7.js"
+  ]
+}
